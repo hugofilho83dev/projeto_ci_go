@@ -3,6 +3,7 @@ on:
   pull_request:
     branches:
       - developnecanene
+      
 jobs:
   check-application:
     runs-on: ubuntu-latest
