@@ -2,8 +2,7 @@ name: ci-golang-workflow
 on: 
   pull_request:
     branches:
-      - develop
-      
+      - developnecanene
 jobs:
   check-application:
     runs-on: ubuntu-latest
